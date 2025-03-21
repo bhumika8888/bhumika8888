@@ -17,7 +17,7 @@
 - 💡 Strong background in **Machine Learning, AI, and Web Development**  
 - 📜 Published research in **XGBoost-Optimized Crop Yield Prediction Models**  
 - 💡 Filed a **patent on AI-Driven Allergy Detection System**  
-- 🏆 **Finalist at Microsoft’s Bhasha Bandhu Hackathon 2025**  
+- 🏆 **Finalist at Microsoft’s Bhasha Bandhu Hackathon 2025** 
 
 ---
 
